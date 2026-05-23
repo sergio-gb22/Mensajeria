@@ -1,7 +1,7 @@
 # Registro de Organización y Pair Programming
 ## 1. Integrantes del Equipo
-* **Alumno A (Identificador):** [Sergio Garcia de Baya]
-* **Alumno B (Identificador):** [Joaquin Torrubia Oria]
+* **Alumno A (Identificador):** Sergio Garcia de Baya
+* **Alumno B (Identificador):** Joaquin Torrubia Oria
 ## 2. Bitácora de Turnos de Programación
 Describid fielmente qué partes exactas del código Java (métodos,
 clases o lógicas del menú) se teclearon en cada bloque bajo la autoría
