@@ -8,9 +8,9 @@ clases o lógicas del menú) se teclearon en cada bloque bajo la autoría
 del conductor de turno:
 * **Turno 1 (Conductor Alumno A):** Se definió la estructura de la
 clase `Mensaje`, los atributos y el constructor...
-* **Turno 2 (Conductor Alumno B):** Se implementaron los algoritmos
-del método `reverse()` y el desplazamiento de caracteres para la
-encriptación...
+* **Turno 2 (Conductor Alumno B):** 
+Hicimos la clase reverse, desencripta, encripta y empezamos la clase Cola.
+
 * **Turno 3 (Conductor Alumno A):** Se codificó la estructura del
 menú por consola en la clase `Mensajeria` y las opciones 1 y 2...
 * **Turno 4 (Conductor Alumno B):** Se programó la lógica de
