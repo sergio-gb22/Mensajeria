@@ -1,20 +1,27 @@
 # Registro de Organización y Pair Programming
-## 1. Integrantes del Equipo
-* **Alumno A (Identificador):** Sergio Garcia de Baya
+
+## 1\. Integrantes del Equipo
+
+* **Alumno A (Identificador):** Sergio Garcia de Baya  
 * **Alumno B (Identificador):** Joaquin Torrubia Oria
-## 2. Bitácora de Turnos de Programación
-Describid fielmente qué partes exactas del código Java (métodos,
-clases o lógicas del menú) se teclearon en cada bloque bajo la autoría
-del conductor de turno:
-* **Turno 1 (Conductor Alumno A):** Se definió la estructura de la
-clase `Mensaje`, los atributos y el constructor...
+
+## 2\. Bitácora de Turnos de Programación
+
+* **Turno 1 (Conductor Alumno A):** 
+
+Definimos la clase mensaje y creamos los constructores, los getters y  el método esValida.
+
 * **Turno 2 (Conductor Alumno B):** 
+
 Hicimos la clase reverse, desencripta, encripta y empezamos la clase Cola.
 
-* **Turno 3 (Conductor Alumno A):** Se codificó la estructura del
-menú por consola en la clase `Mensajeria` y las opciones 1 y 2...
+* **Turno 3 (Conductor Alumno A):** 
+
+Terminamos la clase Cola, hicimos el menu de la aplicacion mensajeria
+
 * **Turno 4 (Conductor Alumno B):** Se programó la lógica de
-recepción de la cola y el control de salida con confirmación...
-## 3. Evidencia del Trabajo Síncrono
-* Insertad aquí una **captura de pantalla** de la videollamada de
-desarrollo,
+
+Hicimos lo que hace cada parte del menu de la aplicacion y corregimos el encripta por que no funcionaba correctamente
+
+## 3\. Evidencia del Trabajo Síncrono
+<img width="802" height="900" alt="Captura de la llamada" src="Captura de pantalla 2026-05-23 215430.png" />
